@@ -1,4 +1,4 @@
-/* Reset CSS */
+
 * {
     margin: 0;
     padding: 0;
@@ -11,13 +11,8 @@ body {
     font-size: 20px;
 }
 
-/* Stile del piè di pagina */
-footer{
-    background-color: #23272A;
-    padding-top: 16px;
-}
 
-/* Stile della linea orizzontale */
+
 hr{
     width: 100%;
     color: white;
@@ -28,7 +23,7 @@ hr{
 /* Stile dell'intestazione superiore */
 .headerbg {
     padding: 16px 0;
-    background-color: #ADD8E6; /* Cyan */
+    background-color: #ADD8E6; 
     
 }
 
@@ -89,7 +84,7 @@ hr{
 .headerbg2 {
     background-color: #00008B; /* Blue */
     padding: 48px 0;
-    border-bottom: solid 4px #ADD8E6; /* Cyan */
+    border-bottom: solid 4px #ADD8E6; 
 }
 
 /* Stile dell'area principale */
