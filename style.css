@@ -115,6 +115,33 @@ hr{
     min-height: 800px;
     border: 2px dashed black;
 }
+.skinsquare{
+    background-color:#F08080;
+    width: 30%;
+    min-height: 600px;
+    border-right: dashed 2px black;
+}
+
+.watersquare{
+    background-color: #20B2AA;
+    width: 17.5%;
+    min-height: 600px;
+    border: dashed 2px white;
+}
+
+.footerbg{
+    background-color: #7FFFD4;
+    padding: 1.5rem 0;
+    justify-content: space-between;
+}
+
+.footeritem{
+    border: dashed 2px black;
+    padding: 0.3rem;
+    background-color: #FFB6C1;
+}
+
+
 
 
 
